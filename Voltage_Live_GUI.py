@@ -8,8 +8,9 @@ If you wish to look at the on board temperature sensor. Please un comment all th
 out anything that has to do with voltage. 
 
 PLEASE TO NOT TOUCH THE "save_file" FUCNTION. 
-    You can save in two ways. left click on the plot, click export, then select "CSV for Plot Data" then name your file and choose the location.
+    You can save in 3 ways. left click on the plot, click export, then select "CSV for Plot Data" then name your file and choose the location.
     You can use the save option on the top, but that will just be a text file, and not a CSV. 
+    Clicking the save button on the left of the window will do the same as the save option in the file menu. 
 
 Documentaion: 
 
